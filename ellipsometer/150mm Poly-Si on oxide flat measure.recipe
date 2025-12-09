@@ -1,0 +1,19 @@
+﻿
+start_Files
+	'65-70-75 0.8mm.parms'	
+	'150mm Poly-Si on oxide flat measure.scan'	
+	'Poly-si (64 nm) on SiO2 (110 nm) on Si.mod'	
+	
+end_Files
+
+start_Advanced Parameters
+	''	
+	F	
+	F	F	
+	
+end_Advanced Parameters
+
+start_Custom Parameters
+	'null'	
+	
+end_Custom Parameters

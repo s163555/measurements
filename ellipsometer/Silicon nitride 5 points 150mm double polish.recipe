@@ -1,0 +1,19 @@
+﻿
+start_Files
+	'55-60-65 0.5mm.parms'	
+	'150mm 5points.scan'	
+	'Silicon nitride on Si double polished .mod'	
+	
+end_Files
+
+start_Advanced Parameters
+	''	
+	F	
+	F	F	
+	
+end_Advanced Parameters
+
+start_Custom Parameters
+	'null'	
+	
+end_Custom Parameters
