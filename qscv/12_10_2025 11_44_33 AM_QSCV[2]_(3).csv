@@ -1,0 +1,13 @@
+Setup title,QSCV[2]
+Application test name,QSCV[2]
+Test date,12/10/2025
+Test time,11:44:33
+Device ID,MOSCAP_4_C
+Count,3
+Flags,
+Remarks,
+Name,IMeasSMU,MeasRange,LeakCompen,HoldTime,DelayTime,Integ_C,Integ_L,Gate,Vstart,Vstop,Vstep,QSCVMeasV,I_Comp,Subs,IOffsetCancel,IOffsetSink,OutputRange,SwpMode,StepDelay,VCompSinkSMU,Cmin,Cmax,IgMin,IgMax
+Value,"Gate SMU",-11,1,1,0,1,0.1,"SMU3:HR	HRSMU",3.2,-3.2,-0.02,0.2,0.01,"SMU4:HR	HRSMU",Disable,"SMU5:HR	HRSMU",0,0,0,5,0,1E-10,-1E-09,1E-09
+Name,Polarity,Lg,Wg,Temp
+Value,1,0.0005,0.0005,25
+

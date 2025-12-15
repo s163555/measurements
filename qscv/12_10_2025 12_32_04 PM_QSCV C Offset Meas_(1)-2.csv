@@ -1,0 +1,14 @@
+Setup title,"QSCV C Offset Meas"
+Application test name,"QSCV C Offset Meas"
+Test date,12/10/2025
+Test time,12:32:04
+Device ID,MOSCAP_4_C
+Count,1
+Flags,
+Remarks,
+Name,IMeasSMU,MeasRange,HoldTime,DelayTime,Integ_C,Integ_L,Gate,Subs,StepDelay
+Value,"Gate SMU",-11,1,1,1,0.5,"SMU3:HR	HRSMU","SMU4:HR	HRSMU",0
+Name,Polarity,Lg,Wg,Temp
+Value,1,0.0005,0.0005,25
+F
+4.5371E-12
